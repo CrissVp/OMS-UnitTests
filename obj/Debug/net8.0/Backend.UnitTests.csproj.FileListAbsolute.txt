@@ -156,3 +156,4 @@ C:\Users\criss\Projects\OMS-New\Backend.UnitTests\obj\Debug\net8.0\refint\Backen
 C:\Users\criss\Projects\OMS-New\Backend.UnitTests\obj\Debug\net8.0\Backend.UnitTests.pdb
 C:\Users\criss\Projects\OMS-New\Backend.UnitTests\obj\Debug\net8.0\Backend.UnitTests.genruntimeconfig.cache
 C:\Users\criss\Projects\OMS-New\Backend.UnitTests\obj\Debug\net8.0\ref\Backend.UnitTests.dll
+C:\Users\criss\Projects\OMS-New\Backend.UnitTests\obj\Debug\net8.0\Backend.UnitTests.sourcelink.json
